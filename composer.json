@@ -24,4 +24,4 @@
     "require-dev": {
         "mockery/mockery": "0.8.*"
     }
-}
+
